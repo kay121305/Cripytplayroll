@@ -2,7 +2,7 @@ import telebot
 from collections import deque, Counter
 
 # ================= CONFIG =================
-API_TOKEN = "8518534286:AAFSOWplpd_-fxy-GQyf2gT8ZhBfSBGjmxk"
+API_TOKEN = "8518534286:AAFbWZqBArVMK31GD06vRR9YJOG5fxuFwnM"
 CRIPTOPLAY_BOT_ID = 8431121309
 
 bot = telebot.TeleBot(API_TOKEN)
